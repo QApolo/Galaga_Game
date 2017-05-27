@@ -15,7 +15,7 @@ So for the continue option I created some text files with boolean flags, last po
 # Score
 For the score option I implemented 'Bubble-sort', according to my professor I couldn't use functions like sort so I could implement my own sorting algorithm, I chosed this one, because I knew that I would'n save a lot of scores so even when it is O(n^2) it wouldn't be reflected.
 
-```c++
+``` c++
 void ordenar_numeros(int *arreglo, int lon)
 {
         int Temp;
@@ -53,6 +53,7 @@ Now the interesting part of the game:
 By clicking over this button, it left the menu so you can play.
 You can move by pressing the arrow buttons, up, left, down and right.
 and to shoot just press the space button.
+
 ![GitHub Logo](/Sample/5.png)
 ![GitHub Logo](/Sample/6.png)
 
