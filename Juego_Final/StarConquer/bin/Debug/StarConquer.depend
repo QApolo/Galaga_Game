@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1452535466 source:c:\users\acerv5\desktop\juego_final\starconquer\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1451174082 c:\users\acerv5\desktop\juego_final\starconquer\inicia.h
+
+1452535054 source:c:\users\acerv5\desktop\juego_final\starconquer\main.cpp
+	"funciones.h"
+	"Menu.h"
+
+1452538768 source:c:\users\acerv5\desktop\juego_final\starconquer\funciones.cpp
+	"funciones.h"
+
+1452539020 c:\users\acerv5\desktop\juego_final\starconquer\funciones.h
+	<allegro.h>
+	"inicia.h"
+	"archivos.h"
+	"Menu.h"
+	<stdio.h>
+
+1452283304 c:\users\acerv5\desktop\juego_final\starconquer\archivos.cpp
+	<stdio.h>
+
+1452537041 source:c:\users\acerv5\desktop\juego_final\starconquer\archivos.cpp
+	"archivos.h"
+
+1452532408 c:\users\acerv5\desktop\juego_final\starconquer\archivos.h
+	<stdio.h>
+	<stdlib.h>
+
+1452490260 c:\users\acerv5\desktop\juego_final\starconquer\menu.cpp
+	<allegro.h>
+	"funciones.h"
+	"inicia.h"
+
+1452535403 source:c:\users\acerv5\desktop\juego_final\starconquer\menu.cpp
+	<allegro.h>
+	"funciones.h"
+	"inicia.h"
+
+1452490456 c:\users\acerv5\desktop\juego_final\starconquer\menu.h
+
+1452527627 c:\users\acerv5\desktop\juego_final\starconquer\funciones.cpp
+	"funciones.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1451082269 source:c:\users\acerv5\desktop\juego_final\menu\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1451082239 c:\users\acerv5\desktop\juego_final\menu\inicia.h
+
+1451174656 source:c:\users\acerv5\desktop\juego_final\menu\main.cpp
+	<allegro.h>
+	"inicia.h"
+
