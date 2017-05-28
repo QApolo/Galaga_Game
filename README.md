@@ -1,8 +1,8 @@
 # Galaga_Game
 ## Version of galaga game made in c++ with allegro library for the graphical interface.
 
-Programming: Juan Carlos García Medina @QApolo (me)
-Graphical design: Luis Antonio Castro Cortés
+* Programming: Juan Carlos García Medina @QApolo (me)
+* Graphical design: Luis Antonio Castro Cortés
 
         (As it was a scholar project I had to call it differently so I named it StarConquer to avoid possible legal issues)
 ### Menu
