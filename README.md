@@ -1,5 +1,5 @@
 # Galaga_Game
-## My version of galaga game made in c++ with allegro library for the graphical interface
+## Version of galaga game made in c++ with allegro library for the graphical interface
         (As it was a scholar project I had to call it differently so I named it StarConquer to avoid possible legal issues)
 ### Menu
 
