@@ -4,7 +4,7 @@
 * Programming: Juan Carlos García Medina @QApolo (me)
 * Graphical design: Luis Antonio Castro Cortés
 
-        (As it was a scholar project I had to call it differently so I named it StarConquer to avoid possible legal issues)
+        (As it was a scholar project we had to call it differently so we named it StarConquer to avoid possible legal issues)
 ### Menu
 
 First there's a menu with four different options:
